@@ -33,10 +33,10 @@ Este projeto realiza uma análise exploratória de dados sobre preços e variaç
 - Conversão de tipos de dados para análises quantitativas
 
 ## 📈 Próximos Passos
-- [ ] Criação de visualizações temporais para tendências
-- [ ] Análise de correlação entre commodities
-- [ ] Identificação de padrões sazonais
-- [ ] Comparação entre variações percentuais
+-  Criação de visualizações temporais para tendências
+-  Análise de correlação entre commodities
+-  Identificação de padrões sazonais
+-  Comparação entre variações percentuais
 
 ## 🛠️ Tecnologias Utilizadas
 - Python 3
